@@ -1,1 +1,1 @@
-# mlhome
+# Sample codes for machine learning
